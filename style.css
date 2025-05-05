@@ -1,0 +1,86 @@
+/* Carousel base class */
+.carousel {
+    margin-bottom: 4rem;
+  }
+  /* Since positioning the image, we need to help out the caption */
+  .carousel-caption {
+    bottom: 3rem;
+    z-index: 10;
+  }
+  /* Declare heights because of positioning of img element */
+.carousel-item {
+    height: 35  rem;
+  }
+  .featurette-divider {
+    margin: 8rem ; /* Space out the Bootstrap <hr> more */
+  }
+.feature{
+  margin-left: 3rem;
+  padding-left: 1.5rem;
+  font-size:1.5rem;
+  margin-right:3rem;
+  padding-right: 1.5rem;
+  margin-bottom: 3rem;
+  padding-bottom: 3rem;
+
+}
+.container-fluid h1.head1{
+  text-align: center;
+  padding-bottom: 3rem;
+}
+.shadoww{
+color: gray;
+}
+.size {
+  font-size: 2rem;
+}
+.nb{
+  padding-left: 3rem;
+}
+.nl{
+  padding-block: 1.5rem;
+  font-size: larger;
+
+}
+.ni{
+  font-weight: 500;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.ofcb{
+  padding-block: 1.5rem;
+  font-size: large;
+}
+.head1{
+  font-weight: 750;
+}
+.featurette-head{
+  font-weight: 750;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.head2{
+  padding-top: 2rem;
+  margin-top: 1rem;
+}
+.bottom1{
+  margin-bottom: 1.5rem;
+  padding-bottom: 1.5rem;
+  font-size: large;
+}
+.display-4{
+  text-align: center;
+  font-weight: bold;
+}
+.custom-iframe-size {
+  width: 500px;
+  height: 500px;
+}
+.navb{
+  font-size:x-large;
+}
+.c{ 
+   align-items: end;
+  align-content: end;
+  object-position: right;
+  margin-left:25rem;
+}
